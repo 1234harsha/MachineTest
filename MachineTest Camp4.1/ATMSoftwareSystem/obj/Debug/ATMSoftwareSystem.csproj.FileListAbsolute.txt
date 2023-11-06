@@ -1,0 +1,7 @@
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\obj\Debug\ATMSoftwareSystem.csproj.AssemblyReference.cache
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\obj\Debug\ATMSoftwareSystem.csproj.CoreCompileInputs.cache
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\bin\Debug\ATMSoftwareSystem.exe.config
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\bin\Debug\ATMSoftwareSystem.exe
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\bin\Debug\ATMSoftwareSystem.pdb
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\obj\Debug\ATMSoftwareSystem.exe
+C:\Users\HARSHA NAIR\source\repos\MachineTest\ATMSoftwareSystem\obj\Debug\ATMSoftwareSystem.pdb
